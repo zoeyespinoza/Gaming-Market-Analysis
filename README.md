@@ -34,16 +34,19 @@ Over the time period of 2014-2016:
 By Region:
 
 NA
+
 Top platforms: PS4, XOne, 3DS.
 Top Genres: Shooter, Action, Sports.
 Top Rating: M, Unknown, E
 
 EU
+
 Top platforms: PS4, XOne, PC.
 Top Genres: Shooter, Action, Sports.
 Top Rating: M, Unknown, E
 
 JA
+
 Top platforms: 3DS, PS4, PSV.
 Top Genres: Action, Role-playing, Shooter.
 Top Rating: Unknown, T, E
