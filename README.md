@@ -27,27 +27,33 @@ In this project, we analyzed historical data on game sales, reviews, and ratings
 
 We tested two hypotheses using t-tests, by including the time period of 2014-2016 for a similar timeframe to understand predictions for 2017. The first hypothesis was that the average user ratings for the Xbox 360 and PC platforms are the same. The second hypothesis was on average user ratings for the Action and Sports genres, to see their difference.  In the case of the second test, we rejected the null hypothesis, indicating that there is a significant difference between the average user ratings for the Action and Sports genres. Analysis suggests that platform and genre have a significant impact on game sales and ratings. Developers and publishers should take these factors into consideration when creating and marketing games. The ESRB rating system also plays a role in game sales, varying by region. 
 
-The top 5 promising platforms are: PS4, X360, and PS3
+The **top 5 promising platforms** are: PS4, X360, and PS3
 
 Over the time period of 2014-2016:
 
 By Region:
 
-NA
+North America (NA):
 
-Top platforms: PS4, XOne, 3DS.
-Top Genres: Shooter, Action, Sports.
-Top Rating: M, Unknown, E
+**Top platforms:** PS4, XOne, 3DS.
 
-EU
+**Top Genres:** Shooter, Action, Sports.
 
-Top platforms: PS4, XOne, PC.
-Top Genres: Shooter, Action, Sports.
-Top Rating: M, Unknown, E
+**Top Rating:** M, Unknown, E
 
-JA
+Europe (EU):
 
-Top platforms: 3DS, PS4, PSV.
-Top Genres: Action, Role-playing, Shooter.
-Top Rating: Unknown, T, E
+**Top platforms:** PS4, XOne, PC.
+
+**Top Genres:** Shooter, Action, Sports.
+
+**Top Rating:** M, Unknown, E
+
+Japan (JA):
+
+**Top platforms:** 3DS, PS4, PSV.
+
+**Top Genres:** Action, Role-playing, Shooter.
+
+**Top Rating:** Unknown, T, E
 
