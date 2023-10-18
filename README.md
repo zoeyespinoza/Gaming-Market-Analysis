@@ -33,27 +33,27 @@ Over the time period of 2014-2016:
 
 By Region:
 
-North America (NA):
+**North America (NA):**
 
-**Top platforms:** PS4, XOne, 3DS.
+- Top platforms: PS4, XOne, 3DS.
 
-**Top Genres:** Shooter, Action, Sports.
+- Top Genres: Shooter, Action, Sports.
 
-**Top Rating:** M, Unknown, E
+- Top Rating: M, Unknown, E
 
-Europe (EU):
+**Europe (EU):**
 
-**Top platforms:** PS4, XOne, PC.
+- Top platforms: PS4, XOne, PC.
 
-**Top Genres:** Shooter, Action, Sports.
+- Top Genres: Shooter, Action, Sports.
 
-**Top Rating:** M, Unknown, E
+- Top Rating: M, Unknown, E
 
-Japan (JA):
+**Japan (JA):**
 
-**Top platforms:** 3DS, PS4, PSV.
+- Top platforms: 3DS, PS4, PSV.
 
-**Top Genres:** Action, Role-playing, Shooter.
+- Top Genres: Action, Role-playing, Shooter.
 
-**Top Rating:** Unknown, T, E
+- Top Rating: Unknown, T, E
 
